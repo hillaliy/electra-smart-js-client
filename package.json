@@ -19,7 +19,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.30.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
