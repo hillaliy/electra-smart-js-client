@@ -1,5 +1,6 @@
 # Electra Smart JS client
-[![npm](https://img.shields.io/npm/v/electra-smart-js-client?style=plastic)](https://www.npmjs.com/package/@yosnightfly/electra-smart-js-client)
+
+[![npm](https://img.shields.io/npm/v/@yosnightfly/electra-smart-js-client?style=plastic)](https://www.npmjs.com/package/@yosnightfly/electra-smart-js-client)
 
 Port of [`yonatanp/electrasmart`](https://github.com/yonatanp/electrasmart) in JS
 
@@ -15,6 +16,7 @@ npx electra-smart-js-client
 ```
 
 **Use it from Node.js code**
+
 ```js
 import { Client } from 'electra-smart-js-client';
 
@@ -34,5 +36,4 @@ async function run() {
 }
 
 run().then(console.log).catch(console.error);
-
 ```
