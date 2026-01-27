@@ -1,6 +1,6 @@
 {
   "name": "@hillaliy/electra-smart-js-client",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Electra Smart JS Client",
   "files": [
     "lib"
@@ -47,15 +47,15 @@
       "main"
     ]
   },
-  "author": "Raz Luvaton",
+  "author": "Yossi Hillali",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rluvaton/electra-smart-js-client/issues"
+    "url": "https://github.com/hillaliy/electra-smart-js-client/issues"
   },
-  "homepage": "https://github.com/rluvaton/electra-smart-js-client#readme",
+  "homepage": "https://github.com/hillaliy/electra-smart-js-client#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rluvaton/electra-smart-js-client.git"
+    "url": "https://github.com/hillaliy/electra-smart-js-client.git"
   },
   "keywords": [
     "electra",
