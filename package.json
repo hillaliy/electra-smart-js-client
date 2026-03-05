@@ -51,6 +51,9 @@
       "main"
     ]
   },
+  "overrides": {
+    "minimatch": "^10.2.4"
+  },
   "author": "Yossi Hillali",
   "license": "MIT",
   "bugs": {
