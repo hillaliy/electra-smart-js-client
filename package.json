@@ -1,6 +1,6 @@
 {
   "name": "@yosnightfly/electra-smart-js-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Electra Smart JS Client",
   "files": [
     "lib"
@@ -19,7 +19,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "axios": "^1.13.6"
+    "axios": "^1.15.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.5.0",
@@ -28,22 +28,22 @@
     "@faker-js/faker": "^10.4.0",
     "@jest/types": "^30.3.0",
     "@types/jest": "^30.0.0",
-    "@typescript-eslint/eslint-plugin": "^8.57.2",
-    "@typescript-eslint/parser": "^8.57.2",
-    "eslint": "^10.1.0",
+    "@typescript-eslint/eslint-plugin": "^8.58.1",
+    "@typescript-eslint/parser": "^8.58.1",
+    "eslint": "^10.2.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.5",
     "husky": "^9.1.7",
     "jest": "^30.3.0",
     "jest-extended": "^7.0.0",
-    "minimatch": "^10.2.4",
-    "prettier": "^3.8.1",
+    "minimatch": "^10.2.5",
+    "prettier": "^3.8.2",
     "semantic-release": "^25.0.3",
     "test-exclude": "^8.0.0",
-    "ts-jest": "^29.4.6",
+    "ts-jest": "^29.4.9",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.2",
-    "typescript-eslint": "^8.57.2"
+    "typescript-eslint": "^8.58.1"
   },
   "release": {
     "branches": [
