@@ -24,7 +24,7 @@ export async function questionUntilValid({
 }: {
   rl: ReadLine.Interface;
   question: string;
-  validateAnswer: (answer) => true | string;
+  validateAnswer: (answer: string) => true | string;
 }) {
   while (true) {
     const answer = await questionPromisified(rl, question);

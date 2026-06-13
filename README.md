@@ -1,4 +1,8 @@
-# Electra Smart JS Client
+<p align="center">
+  <img src="./assets/electra-smart-icon.svg" alt="Electra Smart JS Client icon" width="112" />
+</p>
+
+<h1 align="center">Electra Smart JS Client</h1>
 
 [![npm](https://img.shields.io/npm/v/@yosnightfly/electra-smart-js-client?style=plastic)](https://www.npmjs.com/package/@yosnightfly/electra-smart-js-client)
 

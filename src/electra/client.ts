@@ -35,8 +35,8 @@ export class Client {
   private readonly imei: string;
   private readonly token: string;
 
-  private sid: string;
-  private sidCreationData: Date;
+  private sid?: string;
+  private sidCreationData?: Date;
 
   constructor({ imei, token, sid }: { imei: string; token: string; sid?: string }) {
     if (sid) {
