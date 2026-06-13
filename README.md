@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/electra-smart-icon.svg" alt="Electra Smart JS Client icon" width="112" />
+  <img src="./assets/electra-smart-icon.png" alt="Electra Smart JS Client icon" width="112" />
 </p>
 
 <h1 align="center">Electra Smart JS Client</h1>
