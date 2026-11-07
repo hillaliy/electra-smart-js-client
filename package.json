@@ -47,7 +47,7 @@
     "husky": "^9.1.7",
     "jest": "^30.4.2",
     "jest-extended": "^7.0.0",
-    "minimatch": "^10.2.6",
+    "minimatch": "^11.0.5",
     "prettier": "^3.9.6",
     "test-exclude": "^8.0.0",
     "ts-jest": "^29.4.12",
@@ -61,7 +61,9 @@
     "brace-expansion@^2.0.2": "2.1.7",
     "brace-expansion@^5.0.5": "5.0.12",
     "fast-uri": "^3.1.5",
+    "glob@>=9 <14.0.2": "^14.0.4",
     "js-yaml": "^4.3.2",
+    "minimatch@>=7 <11.0.1": "^11.0.5",
     "shell-quote": "^1.11.0",
     "tar": "^7.5.10"
   },
