@@ -47,7 +47,7 @@
     "husky": "^9.1.7",
     "jest": "^30.4.2",
     "jest-extended": "^7.0.0",
-    "minimatch": "^10.2.6",
+    "minimatch": "^11.0.1",
     "prettier": "^3.9.6",
     "test-exclude": "^8.0.0",
     "ts-jest": "^29.4.12",
